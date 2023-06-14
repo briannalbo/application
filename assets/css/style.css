@@ -1,3 +1,43 @@
 * {
-    background-color: navy;
+    /* background-color: red; */
+    padding: 0;
+    border: 0;
+    margin: 0;
+    /* flex-direction: column; */
+}
+
+nav {
+    position: absolute;
+    margin-top: 20px;
+    width: 75vw;
+    height: 10vh;
+    align-self: center;
+}
+
+ nav a {
+    color: white;
+    font-size: 18px;
+    float: right;
+    margin-left: 34px;
+    margin-top: 20px;
+
+    
+ }
+
+#mountain1 {
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    border: 0;
+
+}
+
+#mountain2 {
+    width: 100vw;
+    height: 50vh;
+    margin: 0;
+    border: 0;
+    padding: 0;
+
 }
