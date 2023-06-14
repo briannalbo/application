@@ -41,3 +41,14 @@ nav {
     padding: 0;
 
 }
+
+#carouselExampleControls{
+width: 100vw;
+margin: 0;
+border: 0;
+padding: 0;
+}
+
+button {
+    width: 5vw;
+}
